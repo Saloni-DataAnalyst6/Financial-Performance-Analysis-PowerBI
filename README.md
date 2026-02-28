@@ -57,4 +57,6 @@ Improve cost efficiency
 
 ## 🖼 Dashboard Preview
 
-![Financial Dashboard](Financial Performance & Profitability Analysis.png)
+## 🖼 Dashboard Preview
+
+![Dashboard](dashboard.png)
